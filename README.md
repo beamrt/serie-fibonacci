@@ -3,7 +3,8 @@
 <h4> 🛠️ Tecnologias utilizadas </h4>
 
 <div>
- <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-line.svg" />
+ <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+           
 </div>
 
 <h4> 📌 Descrição: </h4>
